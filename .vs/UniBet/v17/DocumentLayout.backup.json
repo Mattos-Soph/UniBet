@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\entities\\entitiybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\entities\\entitiybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\entities\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\entities\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\dtos\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\dtos\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\dtos\\depositdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\interfaces\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\interfaces\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\interfaces\\iservices\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\interfaces\\iservices\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\unibet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\unibet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|c:\\users\\pichau\\downloads\\unibet\\unibet\\unibet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B149743F-8B43-4A79-961C-8F37BBCCD07B}|UniBet\\UniBet.csproj|solutionrelative:unibet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Entities\\Deposit.cs",
+              "RelativeDocumentMoniker": "UniBet\\Entities\\Deposit.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Entities\\Deposit.cs",
+              "RelativeToolTip": "UniBet\\Entities\\Deposit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:08:11.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\DTOs\\GameDTO.cs",
+              "RelativeDocumentMoniker": "UniBet\\DTOs\\GameDTO.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\DTOs\\GameDTO.cs",
+              "RelativeToolTip": "UniBet\\DTOs\\GameDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:07:45.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "UniBet\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Controllers\\GameController.cs",
+              "RelativeToolTip": "UniBet\\Controllers\\GameController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:00:55.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "UniBet\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Entities\\Game.cs",
+              "RelativeToolTip": "UniBet\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:11:46.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Program.cs",
+              "RelativeDocumentMoniker": "UniBet\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Program.cs",
+              "RelativeToolTip": "UniBet\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:44:37.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntitiyBase.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Entities\\EntitiyBase.cs",
+              "RelativeDocumentMoniker": "UniBet\\Entities\\EntitiyBase.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Entities\\EntitiyBase.cs",
+              "RelativeToolTip": "UniBet\\Entities\\EntitiyBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:08:38.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UniBet\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UniBet\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:01:00.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepositDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\DTOs\\DepositDTO.cs",
+              "RelativeDocumentMoniker": "UniBet\\DTOs\\DepositDTO.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\DTOs\\DepositDTO.cs",
+              "RelativeToolTip": "UniBet\\DTOs\\DepositDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:06:08.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UniBet\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Entities\\User.cs",
+              "RelativeToolTip": "UniBet\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:12:31.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Interfaces\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "UniBet\\Interfaces\\IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Interfaces\\IServices\\IUserService.cs",
+              "RelativeToolTip": "UniBet\\Interfaces\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:13:03.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Interfaces\\IServices\\IGameService.cs",
+              "RelativeDocumentMoniker": "UniBet\\Interfaces\\IServices\\IGameService.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\Interfaces\\IServices\\IGameService.cs",
+              "RelativeToolTip": "UniBet\\Interfaces\\IServices\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:14:39.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UniBet.http",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\UniBet.http",
+              "RelativeDocumentMoniker": "UniBet\\UniBet.http",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\UniBet.http",
+              "RelativeToolTip": "UniBet\\UniBet.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-02-23T01:44:37.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\appsettings.json",
+              "RelativeDocumentMoniker": "UniBet\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\UniBet\\UniBet\\UniBet\\appsettings.json",
+              "RelativeToolTip": "UniBet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T01:44:35.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
